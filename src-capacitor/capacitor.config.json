@@ -1,0 +1,7 @@
+{
+  "appId": "com.ibrahim.chhaya.plantApp",
+  "appName": "Plant App",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
