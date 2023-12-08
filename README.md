@@ -1,6 +1,6 @@
 # Quasar Plant App (plantapp)
 
-Plant management app
+Plant management app built with Quasar and VueJS. Not done.
 
 ## Install the dependencies
 ```bash
